@@ -1,6 +1,8 @@
 ## zvyala
 
-🩷 I'm passionate about technology and its intersection with creativity and innovation. I am particularly fascinated by the potential of Machine Learning (ML) and Artificial Intelligence (AI) in transforming health diagnostics and improving patient outcomes. 
+♡ computer science and artificial intelligence + year in industry student
+♡ i am fascinated by the potential of machine learning and artificial intelligence in transforming health diagnostics and improving patient outcomes
+♡ linkedin: https://www.linkedin.com/in/zaynaha/
 
 <!---
 zvyala/zvyala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
