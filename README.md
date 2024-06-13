@@ -2,7 +2,7 @@
 
 ♡ computer science and artificial intelligence + year in industry student
 
-♡ i am fascinated by the potential of machine learning and artificial intelligence in transforming health diagnostics and improving patient outcomes
+♡ interest in machine learning and artificial intelligence with transforming health diagnostics and improving patient outcomes as well as predictions in space tech
 
 ♡ linkedin: https://www.linkedin.com/in/zaynaha/
 
